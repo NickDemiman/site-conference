@@ -1,0 +1,6 @@
+[submodule "site-frontend"]
+	path = site-frontend
+	url = https://github.com/NickDemiman/site-frontend
+[submodule "site-backend"]
+	path = site-backend
+	url = https://github.com/NickDemiman/site-backend
